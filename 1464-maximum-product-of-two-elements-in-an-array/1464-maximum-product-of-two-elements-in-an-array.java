@@ -10,7 +10,7 @@ class Solution {
             sLast=last;
             last=num;
         }
-        else if(sLast < num )
+        else if(sLast < num  && sLast!=num)
         {
             sLast=num;
         }
