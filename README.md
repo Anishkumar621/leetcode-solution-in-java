@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
