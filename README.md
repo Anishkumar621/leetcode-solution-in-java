@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [3099-harshad-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/3870-count-commas-in-range) |
@@ -60,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
