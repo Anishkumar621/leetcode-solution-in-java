@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
