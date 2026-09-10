@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -103,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
