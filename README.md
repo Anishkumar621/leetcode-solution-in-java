@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
