@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
