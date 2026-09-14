@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3099-harshad-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/3099-harshad-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0344-reverse-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
