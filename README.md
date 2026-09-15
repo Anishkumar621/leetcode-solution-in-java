@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0709-to-lower-case) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
