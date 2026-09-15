@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0344-reverse-string) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0258-add-digits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
