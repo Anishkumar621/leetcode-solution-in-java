@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0709-to-lower-case) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
