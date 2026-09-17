@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
