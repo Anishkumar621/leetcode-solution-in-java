@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0836-rectangle-overlap) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1688-count-of-matches-in-tournament) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1539-kth-missing-positive-number) |
