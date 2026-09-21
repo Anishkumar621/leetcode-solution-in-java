@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0739-daily-temperatures) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1539-kth-missing-positive-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
