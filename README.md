@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
