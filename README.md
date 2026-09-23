@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Bit Manipulation
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0709-to-lower-case) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Floyd's Cycle Finding Algorithm
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
