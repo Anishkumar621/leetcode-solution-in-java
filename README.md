@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0704-binary-search) |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 ## Bubble Sort
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Bit Manipulation
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -224,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0739-daily-temperatures) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
