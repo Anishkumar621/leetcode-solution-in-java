@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0069-sqrtx) |
