@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0836-rectangle-overlap) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1688-count-of-matches-in-tournament) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
