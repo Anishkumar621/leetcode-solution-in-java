@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1688-count-of-matches-in-tournament) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3099-harshad-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/3099-harshad-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
