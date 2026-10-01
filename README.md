@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0836-rectangle-overlap) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0709-to-lower-case) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Floyd's Cycle Finding Algorithm
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
