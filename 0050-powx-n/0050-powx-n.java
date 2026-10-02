@@ -15,7 +15,7 @@ class Solution {
            return x * half * half;
 
     }
-    public double myPow(double x, int n) {
+    public double myPow(double x, long n) {
        return pow(x,n);
     }
 }
