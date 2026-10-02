@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0709-to-lower-case) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Memoization
 |  |
 | ------- |
