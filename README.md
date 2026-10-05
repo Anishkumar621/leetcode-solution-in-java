@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Floyd's Cycle Finding Algorithm
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anishkumar621/new-Repository-leetcode-solution-in-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
